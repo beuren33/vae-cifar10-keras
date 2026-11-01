@@ -51,3 +51,5 @@ vae-cifar10-keras/
 ## Observações e próximos passos
 
 Como próximos passos, vale testar pesos menores para a KL (como 1) e ver o equilíbrio entre nitidez e qualidade da geração, aumentar o espaço latente, usar uma arquitetura com mais camadas e comparar com a GAN do mesmo tipo de imagem, que costuma gerar imagens mais nítidas mas é mais difícil de treinar.
+
+Os resultados deste projeto podem ser melhores. O foco foi o aprendizado do conteúdo do bootcamp e não obter o melhor desempenho possível, por isso não foi feita uma busca exaustiva por hiperparâmetros, arquiteturas ou dados.
